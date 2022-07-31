@@ -5,4 +5,4 @@
 
 ## Tentang Braincore.id
   
-Braincore.id adalah sebuah perusahaan yang mengembangkan produk-produk kecerdasan buatan yang berbasis di Jakarta
+Braincore.id adalah sebuah komunitas yang mengembangkan kecerdasan buatan yang berbasis di Jakarta
