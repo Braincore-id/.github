@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="banner koding" src="https://raw.githubusercontent.com/Braincore-id/.github/main/Banner_Braincore.png"><br>
+    <img alt="banner koding" src="https://raw.githubusercontent.com/Braincore-id/.github/main/banner"><br>
     <br>
 </p>
 
